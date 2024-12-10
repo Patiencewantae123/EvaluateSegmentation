@@ -1,7 +1,3 @@
-Here's an improved `README.md` with added icons for better structure and visual appeal:
-
----
-
 # 🩺 **EvaluateSegmentation Tool**
 
 **EvaluateSegmentation** is a powerful tool designed to compare two volumes (a test segmentation and a ground truth segmentation) using 22 different metrics. These metrics were carefully selected based on research in medical volume segmentation to offer comprehensive evaluation.
